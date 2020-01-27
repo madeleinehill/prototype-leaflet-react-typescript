@@ -1,0 +1,1 @@
+export const SET_GLOBAL_TIME = "SET_GLOBAL_TIME";
